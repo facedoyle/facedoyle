@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Brendan Doyle
 
-<!--
-**facedoyle/facedoyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **elite athlete**, former **police officer**, and now pivoting into  **cybersecurity professional in training**.  
+My background in high-performance sport and law enforcement has given me discipline, resilience, and problem-solving skills that I now apply to technology and security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Cybersecurity Journey
+- ✅ CompTIA A+  
+- ✅ CompTIA Network+  
+- 📚 Currently studying for CompTIA Security+  
+
+
+## 🎯 Goals
+- I’m here to learn, grow, and link up with others in the cybersecurity world.
+- Build technical depth in cybersecurity  
+- Grow my portfolio with projects and labs  
+- Transition into a professional role in information security
+  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [facedoyle](https://github.com/facedoyle)  
+- LinkedIn: [Brendan Doyle](https://www.linkedin.com/in/brendandoyleireland/)  
+
