@@ -5,10 +5,12 @@ My background in high-performance sport and law enforcement has given me discipl
 
 ---
 
-## 🛡️ Cybersecurity Journey
+## 🛡️ Cybersecurity skill development
 - ✅ CompTIA A+  
 - ✅ CompTIA Network+  
-- 📚 Currently studying for CompTIA Security+  
+- ✅ CompTIA Security+ 
+- ✅ Google Cybersecurity Certificate v2
+- 📚 Currently studying Blue Team 1
 
 
 ## 🎯 Goals
